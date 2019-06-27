@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml id="5d153492999ac" xmlns="http://earth.google.com/kml/2.0">
+	<Folder>
+		<name>Saved Places</name>
+		<Placemark>
+			<name><![CDATA[707 E 10th St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=707+E+10th+St,+Houston,+TX+77008&amp;ftid=0x8640b8a6b292658f:0xed423d419a8acc13">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:34:51 +0000]]></description>
+			<Point>
+				<coordinates>-95.389473,29.789167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="1">
+			<name><![CDATA[935 Ridge St, Houston, TX 77009]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=935+Ridge+St,+Houston,+TX+77009&amp;ftid=0x8640b8b01d7e3717:0x30b822747497cb36">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:26:03 +0000]]></description>
+			<Point>
+				<coordinates>-95.383465,29.782894,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="2">
+			<name><![CDATA[1126 Highland St, Houston, TX 77009]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1126+Highland+St,+Houston,+TX+77009&amp;ftid=0x8640b8a44f4cea2b:0x197930f497311c00">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:25:49 +0000]]></description>
+			<Point>
+				<coordinates>-95.387064,29.787167,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="3">
+			<name><![CDATA[827 Nicholson St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=827+Nicholson+St,+Houston,+TX+77007&amp;ftid=0x8640c744e81cc9c9:0xd07abfb5f931a31a">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:25:43 +0000]]></description>
+			<Point>
+				<coordinates>-95.405746,29.78653,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="4">
+			<name><![CDATA[931 Nicholson St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=931+Nicholson+St,+Houston,+TX+77008&amp;ftid=0x8640c7449f51d3cb:0xeb063b6b0c33df">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:25:38 +0000]]></description>
+			<Point>
+				<coordinates>-95.405756,29.788299,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="5">
+			<name><![CDATA[928 Fugate St, Houston, TX 77009]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=928+Fugate+St,+Houston,+TX+77009&amp;ftid=0x8640b8a2aebef7b5:0xf5aa2fd4926b78fb">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:21:56 +0000]]></description>
+			<Point>
+				<coordinates>-95.383874,29.794872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="6">
+			<name><![CDATA[631 Harvard St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=631+Harvard+St,+Houston,+TX+77007&amp;ftid=0x8640c75782948e65:0xe421e1b1f02f146">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:21:46 +0000]]></description>
+			<Point>
+				<coordinates>-95.396511,29.782634,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="7">
+			<name><![CDATA[1346 Harvard St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1346+Harvard+St,+Houston,+TX+77008&amp;ftid=0x8640c76066d358c7:0x5efff0867bf04044">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:20:28 +0000]]></description>
+			<Point>
+				<coordinates>-95.396205,29.796016,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="8">
+			<name><![CDATA[1420 Herkimer St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1420+Herkimer+St,+Houston,+TX+77008&amp;ftid=0x8640c7685930684f:0x2dc08c3c4eaa944a">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:20:13 +0000]]></description>
+			<Point>
+				<coordinates>-95.406104,29.797055,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="9">
+			<name><![CDATA[439 W 16th St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=439+W+16th+St,+Houston,+TX+77008&amp;ftid=0x8640c768b3a857ab:0x8988466f7c98c228">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:20:05 +0000]]></description>
+			<Point>
+				<coordinates>-95.405265,29.799997,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="10">
+			<name><![CDATA[448 Harvard St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=448+Harvard+St,+Houston,+TX+77007&amp;ftid=0x8640c7565b2b605d:0xcbfd78c7826e4551">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:19:47 +0000]]></description>
+			<Point>
+				<coordinates>-95.395939,29.779455,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="11">
+			<name><![CDATA[611 W 15th St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=611+W+15th+St,+Houston,+TX+77008&amp;ftid=0x8640c76625977333:0x34cdd93ea0f01acf">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:19:42 +0000]]></description>
+			<Point>
+				<coordinates>-95.403956,29.798157,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="12">
+			<name><![CDATA[515 Ridge St, Houston, TX 77009]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=515+Ridge+St,+Houston,+TX+77009&amp;ftid=0x8640b8b768135329:0x24e352fc358079e0">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:19:25 +0000]]></description>
+			<Point>
+				<coordinates>-95.376871,29.783263,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="13">
+			<name><![CDATA[607 Ridge St, Houston, TX 77009]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=607+Ridge+St,+Houston,+TX+77009&amp;ftid=0x8640b8b74d86c6f9:0xb2e0c9a67bf380e6">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:19:20 +0000]]></description>
+			<Point>
+				<coordinates>-95.378064,29.783255,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="14">
+			<name><![CDATA[1447 Allston St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1447+Allston+St,+Houston,+TX+77008&amp;ftid=0x8640c766e75511ff:0x3586f60c06c5cca6">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:19:10 +0000]]></description>
+			<Point>
+				<coordinates>-95.40052,29.797891,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="15">
+			<name><![CDATA[1402 Harvard St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1402+Harvard+St,+Houston,+TX+77008&amp;ftid=0x8640c7605c3402b3:0x42f03b690421dcf8">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:18:55 +0000]]></description>
+			<Point>
+				<coordinates>-95.396123,29.79647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="16">
+			<name><![CDATA[707 E 9th St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=707+E+9th+St,+Houston,+TX+77007&amp;ftid=0x8640b8a690f0ff29:0xde2dcee4caf6c7c3">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:18:09 +0000]]></description>
+			<Point>
+				<coordinates>-95.389528,29.787371,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="17">
+			<name><![CDATA[421 Oxford St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=421+Oxford+St,+Houston,+TX+77007&amp;ftid=0x8640b8a99752e57f:0x55f8f70ba311a94a">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:17:58 +0000]]></description>
+			<Point>
+				<coordinates>-95.392012,29.778759,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="18">
+			<name><![CDATA[709 E 7 1/2 St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=709+E+7+1/2+St,+Houston,+TX+77007&amp;ftid=0x8640b8a612076841:0x46f9d38839a77abe">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:16:46 +0000]]></description>
+			<Point>
+				<coordinates>-95.38933,29.784594,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="19">
+			<name><![CDATA[1219 Arlington St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1219+Arlington+St,+Houston,+TX+77008&amp;ftid=0x8640c75ff2f01745:0xc03fd457922d8ae3">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:16:42 +0000]]></description>
+			<Point>
+				<coordinates>-95.394497,29.793572,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="20">
+			<name><![CDATA[630 Cortlandt St, Houston, TX 77007]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=630+Cortlandt+St,+Houston,+TX+77007&amp;ftid=0x8640c757ee147539:0x49baa4b131f84847">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:16:36 +0000]]></description>
+			<Point>
+				<coordinates>-95.394875,29.78252,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark id="21">
+			<name><![CDATA[1322 Harvard St, Houston, TX 77008]]></name>
+			<description><![CDATA[<a href="http://maps.google.com/?q=1322+Harvard+St,+Houston,+TX+77008&amp;ftid=0x8640c7607b6c5a8b:0xb59e575a38318907">Google Maps Link</a><br>Updated: Thu, 27 Jun 2019 20:16:30 +0000]]></description>
+			<Point>
+				<coordinates>-95.396176,29.7954,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</kml>
