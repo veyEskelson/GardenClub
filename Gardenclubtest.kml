@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Gardenclubtest</name>
+		<description> | Created with https://batchgeo.com</description>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>1</value>
+							</Data>
+									</ExtendedData>
+								<address>709 E 7 12 St Houston Texas 77007</address>
+				<Point>
+					<coordinates>-95.3891891,29.7837126,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>2</value>
+							</Data>
+									</ExtendedData>
+								<address>421 Oxford St Houston Texas 77007</address>
+				<Point>
+					<coordinates>-95.3920124,29.7787586,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>3</value>
+							</Data>
+									</ExtendedData>
+								<address>448 Harvard St Houston Texas 77007</address>
+				<Point>
+					<coordinates>-95.3959389,29.7794555,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>4</value>
+							</Data>
+									</ExtendedData>
+								<address>630 Cortlandt St Houston Texas 77007</address>
+				<Point>
+					<coordinates>-95.3948754,29.7825201,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>5</value>
+							</Data>
+									</ExtendedData>
+								<address>631 Harvard St Houston Texas 77007</address>
+				<Point>
+					<coordinates>-95.3965115,29.7826338,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>6</value>
+							</Data>
+									</ExtendedData>
+								<address>1219 Arlington St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.3944971,29.7935715,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>7</value>
+							</Data>
+									</ExtendedData>
+								<address>928 Fugate St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.3838739,29.7948716,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>8</value>
+							</Data>
+									</ExtendedData>
+								<address>707 E 9th St Houston Texas 77007</address>
+				<Point>
+					<coordinates>-95.3895282,29.7873712,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>9</value>
+							</Data>
+									</ExtendedData>
+								<address>1402 Harvard St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.3961229,29.7964699,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>10</value>
+							</Data>
+									</ExtendedData>
+								<address>1322 Harvard St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.396176,29.7954,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>11</value>
+							</Data>
+									</ExtendedData>
+								<address>1707 Rutland St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.4015837,29.8013196,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>12</value>
+							</Data>
+									</ExtendedData>
+								<address>707 E 10th St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.3894734,29.7891671,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>13</value>
+							</Data>
+									</ExtendedData>
+								<address>611 W 15th St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.4039563,29.7981569,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>14</value>
+							</Data>
+									</ExtendedData>
+								<address>1346 Harvard St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.3962047,29.7960156,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>15</value>
+							</Data>
+									</ExtendedData>
+								<address>1420 Herkimer St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.406104,29.7970549,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>16</value>
+							</Data>
+									</ExtendedData>
+								<address>439 W 16th St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.4052654,29.7999972,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>17</value>
+							</Data>
+									</ExtendedData>
+								<address>622 Ridge St Houston Texas 77009</address>
+				<Point>
+					<coordinates>-95.3791304,29.7827543,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>18</value>
+							</Data>
+									</ExtendedData>
+								<address>935 Ridge St Houston Texas 77009</address>
+				<Point>
+					<coordinates>-95.383465,29.782894,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>19</value>
+							</Data>
+									</ExtendedData>
+								<address>515 Ridge St Houston Texas 77009</address>
+				<Point>
+					<coordinates>-95.3768712,29.7832631,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>20</value>
+							</Data>
+									</ExtendedData>
+								<address>607 Ridge St Houston Texas 77009</address>
+				<Point>
+					<coordinates>-95.378064,29.783255,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>21</value>
+							</Data>
+									</ExtendedData>
+								<address>1447 Allston St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.4005201,29.7978913,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>22</value>
+							</Data>
+									</ExtendedData>
+								<address>1126 Highland St Houston Texas 77009</address>
+				<Point>
+					<coordinates>-95.3870637,29.7871667,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>23</value>
+							</Data>
+									</ExtendedData>
+								<address>827 Nicholson St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.4057461,29.7865299,0</coordinates>
+				</Point>
+			</Placemark>
+					<Placemark>
+				<styleUrl>#0</styleUrl>
+								<ExtendedData>
+												<Data name='ID'>
+								<value>24</value>
+							</Data>
+									</ExtendedData>
+								<address>931 Nicholson St Houston Texas 77008</address>
+				<Point>
+					<coordinates>-95.4057563,29.7882993,0</coordinates>
+				</Point>
+			</Placemark>
+		<Style id="0"><IconStyle><scale>1</scale><Icon><href>https://batchgeo.com/images/icons/red_shadow_Marker.png</href></Icon><hotSpot x=".3" y=".8" xunits="fraction" yunits="fraction" /></IconStyle><LabelStyle><scale>0</scale></LabelStyle></Style>	</Document>
+</kml>

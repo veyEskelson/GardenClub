@@ -1,0 +1,533 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38953,29.78436 ]
+    },
+    "properties": {
+    "ID":1,
+    "ADDRESS":"709 E 7 1/2 St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77007,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/709+E+7+1%2F2+St,+Houston,+TX+77007/@29.7845961,-95.3904271,18z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8a612076841:0x46f9d38839a77abe!8m2!3d29.7845938!4d-95.3893301",
+    "TYPE":"Current",
+    "GEOCODEADDRESS":"709 E 7TH 1/2 ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.38953,29.78436",
+    "FIELD14":96061647,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.391785,29.778715 ]
+    },
+    "properties": {
+    "ID":2,
+    "ADDRESS":"421 Oxford St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77007,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/421+Oxford+St,+Houston,+TX+77007/@29.7787632,-95.3942064,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8a99752e57f:0x55f8f70ba311a94a!8m2!3d29.7787586!4d-95.3920124",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"421 OXFORD ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.391785,29.778715",
+    "FIELD14":96061676,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.396164,29.778711 ]
+    },
+    "properties": {
+    "ID":3,
+    "ADDRESS":"448 Harvard St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77007,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/448+Harvard+St,+Houston,+TX+77007/@29.7794601,-95.3981329,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c7565b2b605d:0xcbfd78c7826e4551!8m2!3d29.7794555!4d-95.3959389",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"448 HARVARD ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.396164,29.778711",
+    "FIELD14":96061535,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.395134,29.782118 ]
+    },
+    "properties": {
+    "ID":4,
+    "ADDRESS":"630 Cortlandt St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77007,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/630+Cortlandt+St,+Houston,+TX+77007/@29.7825247,-95.3970694,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c757ee147539:0x49baa4b131f84847!8m2!3d29.7825201!4d-95.3948754",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"630 CORTLANDT ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.395134,29.782118",
+    "FIELD14":96061542,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39625,29.78211 ]
+    },
+    "properties": {
+    "ID":5,
+    "ADDRESS":"631 Harvard St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77007,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/631+Harvard+St,+Houston,+TX+77007/@29.7826384,-95.3987055,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c75782948e65:0xe421e1b1f02f146!8m2!3d29.7826338!4d-95.3965115",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"631 HARVARD ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.39625,29.78211",
+    "FIELD14":96061526,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39426,29.79303 ]
+    },
+    "properties": {
+    "ID":6,
+    "ADDRESS":"1219 Arlington St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1219+Arlington+St,+Houston,+TX+77008/@29.7935761,-95.3966911,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c75ff2f01745:0xc03fd457922d8ae3!8m2!3d29.7935715!4d-95.3944971",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1219 ARLINGTON ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.39426,29.79303",
+    "FIELD14":96061328,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38324,29.795052 ]
+    },
+    "properties": {
+    "ID":7,
+    "ADDRESS":"928 Fugate St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77009,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/928+Fugate+St,+Houston,+TX+77009/@29.7948762,-95.3860679,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8a2aebef7b5:0xf5aa2fd4926b78fb!8m2!3d29.7948716!4d-95.3838739",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"928 W FUGATE ST, HOUSTON, TX, 77009",
+    "LAT_LONG":"-95.38324,29.795052",
+    "FIELD14":96065337,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38961,29.787125 ]
+    },
+    "properties": {
+    "ID":8,
+    "ADDRESS":"707 E 9th St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77007,
+    "Month":"AUGUST",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/707+E+9th+St,+Houston,+TX+77007/@29.7873758,-95.3917222,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8a690f0ff29:0xde2dcee4caf6c7c3!8m2!3d29.7873712!4d-95.3895282",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"707 E 9TH ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.38961,29.787125",
+    "FIELD14":96061500,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39652,29.796421 ]
+    },
+    "properties": {
+    "ID":9,
+    "ADDRESS":"1402 Harvard St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"JUNE",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1402+Harvard+St,+Houston,+TX+77008/@29.7964745,-95.3983169,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c7605c3402b3:0x42f03b690421dcf8!8m2!3d29.7964699!4d-95.3961229",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1402 HARVARD ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.39652,29.796421",
+    "FIELD14":96061305,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.396484,29.794895 ]
+    },
+    "properties": {
+    "ID":10,
+    "ADDRESS":"1322 Harvard St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"JUNE",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1322+Harvard+St,+Houston,+TX+77008/@29.7954046,-95.39837,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c7607b6c5a8b:0xb59e575a38318907!8m2!3d29.7954!4d-95.396176",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1322 HARVARD ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.396484,29.794895",
+    "FIELD14":96061307,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.401375,29.801004 ]
+    },
+    "properties": {
+    "ID":11,
+    "ADDRESS":"1707 Rutland St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"JUNE",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1707+Rutland+St,+Houston,+TX+77008/@29.8013242,-95.4037777,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c76433b50ca7:0xec13e93ff1abc61a!8m2!3d29.8013196!4d-95.4015837",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1707 RUTLAND ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.401375,29.801004",
+    "FIELD14":96055367,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38964,29.788965 ]
+    },
+    "properties": {
+    "ID":12,
+    "ADDRESS":"707 E 10th St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"JULY",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/707+E+10th+St,+Houston,+TX+77008/@29.7891717,-95.3916674,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8a6b292658f:0xed423d419a8acc13!8m2!3d29.7891671!4d-95.3894734",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"707 E 10TH ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.38964,29.788965",
+    "FIELD14":96061487,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4037,29.797985 ]
+    },
+    "properties": {
+    "ID":13,
+    "ADDRESS":"611 W 15th St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"JULY",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/611+W+15th+St,+Houston,+TX+77008/@29.7981615,-95.4061503,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c76625977333:0x34cdd93ea0f01acf!8m2!3d29.7981569!4d-95.4039563",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"611 W 15TH ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.4037,29.797985",
+    "FIELD14":96060975,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.39649,29.795275 ]
+    },
+    "properties": {
+    "ID":14,
+    "ADDRESS":"1346 Harvard St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"APRIL",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1346+Harvard+St,+Houston,+TX+77008/@29.7960202,-95.3983987,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c76066d358c7:0x5efff0867bf04044!8m2!3d29.7960156!4d-95.3962047",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1346 HARVARD ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.39649,29.795275",
+    "FIELD14":96061307,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40627,29.796558 ]
+    },
+    "properties": {
+    "ID":15,
+    "ADDRESS":"1420 Herkimer St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1420+Herkimer+St,+Houston,+TX+77008/@29.7970595,-95.408298,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c7685930684f:0x2dc08c3c4eaa944a!8m2!3d29.7970549!4d-95.406104",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1420 HERKIMER ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.40627,29.796558",
+    "FIELD14":96060904,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40489,29.799822 ]
+    },
+    "properties": {
+    "ID":16,
+    "ADDRESS":"439 W 16th St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/439+W+16th+St,+Houston,+TX+77008/@29.8000018,-95.4074594,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c768b3a857ab:0x8988466f7c98c228!8m2!3d29.7999972!4d-95.4052654",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"439 W 16TH ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.40489,29.799822",
+    "FIELD14":96055354,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37819,29.782969 ]
+    },
+    "properties": {
+    "ID":17,
+    "ADDRESS":"622 Ridge St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77009,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/622+Ridge+St,+Houston,+TX+77009/@29.7827589,-95.3813244,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8b0b91729e3:0xaba711ffd87184bf!8m2!3d29.7827543!4d-95.3791304",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"622 RIDGE ST, HOUSTON, TX, 77009",
+    "LAT_LONG":"-95.37819,29.782969",
+    "FIELD14":96065773,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38278,29.782677 ]
+    },
+    "properties": {
+    "ID":18,
+    "ADDRESS":"935 Ridge St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77009,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/935+Ridge+St,+Houston,+TX+77009/@29.7828986,-95.385659,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8b01d7e3717:0x30b822747497cb36!8m2!3d29.782894!4d-95.383465",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"935 RIDGE ST, HOUSTON, TX, 77009",
+    "LAT_LONG":"-95.38278,29.782677",
+    "FIELD14":96065683,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37683,29.783089 ]
+    },
+    "properties": {
+    "ID":19,
+    "ADDRESS":"515 Ridge St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77009,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/515+Ridge+St,+Houston,+TX+77009/@29.7832677,-95.3790652,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8b768135329:0x24e352fc358079e0!8m2!3d29.7832631!4d-95.3768712",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"515 RIDGE ST, HOUSTON, TX, 77009",
+    "LAT_LONG":"-95.37683,29.783089",
+    "FIELD14":96631942,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.37799,29.782986 ]
+    },
+    "properties": {
+    "ID":20,
+    "ADDRESS":"607 Ridge St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77009,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/607+Ridge+St,+Houston,+TX+77009/@29.7832596,-95.380258,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8b74d86c6f9:0xb2e0c9a67bf380e6!8m2!3d29.783255!4d-95.378064",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"607 RIDGE ST, HOUSTON, TX, 77009",
+    "LAT_LONG":"-95.37799,29.782986",
+    "FIELD14":96065773,
+    "SIDE":"R"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.4002,29.797071 ]
+    },
+    "properties": {
+    "ID":21,
+    "ADDRESS":"1447 Allston St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1447+Allston+St,+Houston,+TX+77008/@29.7978959,-95.4027141,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c766e75511ff:0x3586f60c06c5cca6!8m2!3d29.7978913!4d-95.4005201",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1447 ALLSTON ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.4002,29.797071",
+    "FIELD14":96061006,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.38656,29.787344 ]
+    },
+    "properties": {
+    "ID":22,
+    "ADDRESS":"1126 Highland St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77009,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/1126+Highland+St,+Houston,+TX+77009/@29.7871713,-95.3892577,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640b8a44f4cea2b:0x197930f497311c00!8m2!3d29.7871667!4d-95.3870637",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"1126 HIGHLAND ST, HOUSTON, TX, 77009",
+    "LAT_LONG":"-95.38656,29.787344",
+    "FIELD14":96061499,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40544,29.785604 ]
+    },
+    "properties": {
+    "ID":23,
+    "ADDRESS":"827 Nicholson St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/827+Nicholson+St,+Houston,+TX+77007/@29.7865345,-95.4079401,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c744e81cc9c9:0xd07abfb5f931a31a!8m2!3d29.7865299!4d-95.4057461",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"827 NICHOLSON ST, HOUSTON, TX, 77007",
+    "LAT_LONG":"-95.40544,29.785604",
+    "FIELD14":96060973,
+    "SIDE":"L"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.40551,29.787504 ]
+    },
+    "properties": {
+    "ID":24,
+    "ADDRESS":"931 Nicholson St",
+    "CITY":"Houston",
+    "STATE":"Texas",
+    "ZIP":77008,
+    "Month":"MARCH",
+    "Year":2019,
+    "URL":"https://www.google.com/maps/place/931+Nicholson+St,+Houston,+TX+77008/@29.7883039,-95.4079503,17z/data=!3m1!4b1!4m9!1m3!11m2!2slDUr5z1DYHMJ4AWPTptyr_UxlpkHng!3e3!3m4!1s0x8640c7449f51d3cb:0xeb063b6b0c33df!8m2!3d29.7882984!4d-95.4057562",
+    "TYPE":"Past",
+    "GEOCODEADDRESS":"931 NICHOLSON ST, HOUSTON, TX, 77008",
+    "LAT_LONG":"-95.40551,29.787504",
+    "FIELD14":96060966,
+    "SIDE":"L"
+    }
+  }
+]
+}
